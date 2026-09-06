@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/codenameseol">
-    <img src="./assets/hero.svg" alt="Seol — junior but overstacked. Firmware to frontend, backend, and everything in between." width="100%" />
+    <img src="./assets/hero.svg" alt="Seol — full-stack overflowed." width="100%" />
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 
 <br />
 
-## junior but overstacked.
+## full-stack overflowed.
 
 Hi, I’m **Seol** — a junior builder who likes following an idea all the way down to the metal, then all the way back to the screen.
 
