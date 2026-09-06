@@ -2,24 +2,33 @@
 
 [![hero](https://github.com/codenameseol/codenameseol/raw/main/assets/hero.svg)](https://github.com/codenameseol)
 
-<sub>SEOL, THE INFLUENCING CODER · SEOUL, SOUTH KOREA</sub>
+<sub>SEOL · INFLUENCING CODER · SEOUL, SOUTH KOREA / 서울, 대한민국</sub>
 
 <br>
 
 [![building in public](https://img.shields.io/badge/building_in--public-f7f5f0?style=flat-square&labelColor=722f3e&color=f7f5f0)](https://github.com/codenameseol?tab=repositories)
-[![based in Seoul](https://img.shields.io/badge/based_in-Seoul%2C%20KR-f7f5f0?style=flat-square&labelColor=722f3e&color=f7f5f0)](https://github.com/codenameseol)
 [![curious by default](https://img.shields.io/badge/status-curious%20by%20default-f7f5f0?style=flat-square&labelColor=722f3e&color=f7f5f0)](https://github.com/codenameseol)
 
 </div>
 
-## a little taste, a lot of curiosity.
+<details open>
+<summary>언어 전환 · Language switch</summary>
 
-Hi, I'm **Seol** 🌿 — I build with code, refine with taste, and share the story in between.
+이 프로필 README는 한국어를 먼저 쓰고 영어를 바로 병기합니다. GitHub Markdown에서는 JavaScript/canvas 토글을 실행할 수 없으므로 이 native disclosure를 사용합니다. 웹 데모의 실제 전환 버튼은 [Seol Experimental Lab](https://codenameseol.github.io/seol-experimental-lab/)에서 제공합니다.
+This profile README uses Korean first with English immediately paired. GitHub Markdown cannot execute a JavaScript/canvas toggle, so this native disclosure is the supported no-script switch. The live web toggle is available in [Seol Experimental Lab](https://codenameseol.github.io/seol-experimental-lab/).
 
-I like the moment a small idea actually moves, and ends up in someone's hands without them thinking twice about it. A signal becomes firmware, firmware speaks a protocol, a service turns it into something useful, an interface makes it feel obvious — that whole chain is what I'm curious about. I'm still early in the journey, which is exactly why I'm deliberately touching every layer instead of picking one box in the diagram.
+</details>
 
-> I don't want to be the person who only owns one box in the diagram.
-> I want to understand the hand-offs between all of them.
+## 한 줄 소개 · One-line introduction
+
+**작은 신호가 사람에게 닿기까지, 전체 경계를 따라가며 만듭니다.**
+**I build along the whole chain, from a small signal to something people can feel.**
+
+코드로 만들고, 취향으로 다듬고, 과정과 한계를 공개합니다.
+I build with code, refine with taste, and publish the process together with its limits.
+
+> 한 계층만 소유하기보다, 계층 사이의 hand-off를 이해하고 싶습니다.
+> I do not want to own only one box; I want to understand the hand-offs between them.
 
 <div align="center">
 
@@ -27,61 +36,48 @@ I like the moment a small idea actually moves, and ends up in someone's hands wi
 
 </div>
 
-## what I'm learning right now
+## 지금 배우는 것 · What I am learning
 
-<div align="center">
+| 계층 · Layer | 질문 · Question | 도구 · Tools |
+| :---: | :--- | :--- |
+| **01 · EDGE** | 실제로 무엇이 움직이나요? / What actually moves? | Firmware · Sensors · C / C++ |
+| **02 · SYSTEMS** | 보이지 않는 연결은 어떻게 이어지나요? / How does invisible wiring hold? | Linux · Automation · Python |
+| **03 · SERVICES** | 믿을 수 있는 흐름은 어떻게 만드나요? / How do flows earn trust? | APIs · Data models · FastAPI |
+| **04 · INTERFACE** | 사람이 어디에서 만나나요? / Where do people meet it? | Web apps · React · TypeScript |
 
-|  01 · EDGE  |  02 · SYSTEMS  |  03 · SERVICES  |  04 · INTERFACE  |
-| :---: | :---: | :---: | :---: |
-| what actually moves | the invisible wiring | flows worth trusting | where people meet it |
-| Firmware · Sensors | Linux · Automation | APIs · Data models | Web apps · Design |
-| C / C++ | Python | Backend | TypeScript |
+완성된 이력서가 아니라, 지금 향하고 있는 방향입니다.
+This is not a finished résumé; it is a map of where the curiosity is pointed now.
 
-</div>
+## 작은 실험실 · The playground
 
-<div align="center">
+작지만 실제로 실행되는 결과를 우선합니다.
+Small and runnable comes before impressive and theoretical.
 
-![C](https://img.shields.io/badge/C-722f3e?style=for-the-badge&logo=c&logoColor=f7f5f0)
-![C++](https://img.shields.io/badge/C%2B%2B-722f3e?style=for-the-badge&logo=cplusplus&logoColor=f7f5f0)
-![Python](https://img.shields.io/badge/Python-722f3e?style=for-the-badge&logo=python&logoColor=f7f5f0)
-![TypeScript](https://img.shields.io/badge/TypeScript-722f3e?style=for-the-badge&logo=typescript&logoColor=f7f5f0)
-![FastAPI](https://img.shields.io/badge/FastAPI-722f3e?style=for-the-badge&logo=fastapi&logoColor=f7f5f0)
-![React](https://img.shields.io/badge/React-722f3e?style=for-the-badge&logo=react&logoColor=f7f5f0)
-
-</div>
-
-Not a finished résumé — just where the curiosity is pointed right now.
-
-## the playground
-
-Small over impressive. Real over polished. Each experiment below actually runs — that's the only bar it has to clear.
-
-|  |  | note |
+| 저장소 · Repository | 하는 일 · What it explores | 계층 · Layer |
 | --- | --- | --- |
-| **[mood-strip-fw](https://github.com/codenameseol/mood-strip-fw)** | a tiny firmware experiment that speaks mood through light | `01 / edge` |
-| **[quiet-uart](https://github.com/codenameseol/quiet-uart)** | a tiny UART framer that finds the signal in the noise | `01 / edge` |
-| **[tab-hoarder](https://github.com/codenameseol/tab-hoarder)** | a small Python automation that tidies up the tabs piling up on you | `02 / systems` |
-| **[quiet-cron](https://github.com/codenameseol/quiet-cron)** | a small job scheduler that quietly runs in the background | `02 / systems` |
-| **[moodboard-api](https://github.com/codenameseol/moodboard-api)** | a very small API for jotting down today's mood in one line | `03 / services` |
-| **[tiny-gatekeeper](https://github.com/codenameseol/tiny-gatekeeper)** | a minimal access-control service — one key is enough | `03 / services` |
-| **[soft-ui](https://github.com/codenameseol/soft-ui)** | a small React kit for interfaces with softer edges | `04 / interface` |
-| **[now-playing-widget](https://github.com/codenameseol/now-playing-widget)** | a small embeddable widget that quietly says what I'm doing right now | `04 / interface` |
+| [mood-strip-fw](https://github.com/codenameseol/mood-strip-fw) | 빛으로 무드를 말하는 펌웨어 / Firmware that speaks mood through light | `01 / EDGE` |
+| [quiet-uart](https://github.com/codenameseol/quiet-uart) | 잡음 속 프레임을 찾는 UART 실험 / A UART framer that finds signal in noise | `01 / EDGE` |
+| [tab-hoarder](https://github.com/codenameseol/tab-hoarder) | 쌓인 탭을 정리하는 Python 자동화 / Python automation for crowded tabs | `02 / SYSTEMS` |
+| [quiet-cron](https://github.com/codenameseol/quiet-cron) | 조용히 실행되는 in-process scheduler / A quiet in-process scheduler | `02 / SYSTEMS` |
+| [moodboard-api](https://github.com/codenameseol/moodboard-api) | 한 줄 기분 기록 API / A one-line mood journal API | `03 / SERVICES` |
+| [tiny-gatekeeper](https://github.com/codenameseol/tiny-gatekeeper) | 작은 API key 발급·검증 서비스 / A tiny API-key issue-and-check service | `03 / SERVICES` |
+| [soft-ui](https://github.com/codenameseol/soft-ui) | 부드러운 React 컴포넌트 키트 / A softer React component kit | `04 / INTERFACE` |
+| [now-playing-widget](https://github.com/codenameseol/now-playing-widget) | 현재 작업을 보여주는 임베드 위젯 / An embeddable now-playing widget | `04 / INTERFACE` |
+| [seol-experimental-lab](https://github.com/codenameseol/seol-experimental-lab) | 공개 실험을 하나의 이야기로 연결 / Connecting public experiments into one story | `PUBLIC LAB` |
 
-## notes to self
+## 작업 원칙 · Working principles
 
-- **Small, but real.** Sitting with a perfect plan for too long teaches less than shipping something small that actually runs. One working result brings the next question with it.
-- **Stay curious past what's visible.** A glitch on screen can start somewhere else entirely — worth tracing before patching.
-- **Make the seams obvious, keep changes light.** Good systems make their boundaries easy to see and easy to touch.
-- **Stay beginner-shaped.** I'd rather stay someone who keeps asking than perform knowing it all.
+- **작지만 실제로 · Small, but real.** 작은 실행 결과가 다음 질문을 엽니다. / A small runnable result opens the next question.
+- **경계를 보이게 · Make seams visible.** 화면의 문제를 다른 계층까지 따라갑니다. / Trace a visible problem until the layer changes.
+- **증거를 구분해 · Separate evidence.** 목표, simulator, 실제 장비 결과를 섞지 않습니다. / Keep targets, simulators, and hardware results distinct.
+- **계속 초보로 · Stay beginner-shaped.** 아는 척보다 계속 묻는 쪽을 택합니다. / I would rather keep asking than perform certainty.
 
-## now / next
+## 문서 언어 규칙 · Documentation language rule
 
-```text
-now    → building small, complete systems and learning in public
-next   → deeper embedded work, better services, calmer interfaces
-always → follow the bug until the layer changes
-```
+공개 README, UI 문구, CLI 예제와 상태 표현은 기본적으로 **한국어를 먼저 쓰고 영어를 바로 병기**합니다. 고유명사·API·코드 식별자는 원문을 보존합니다.
+All public READMEs, UI copy, CLI examples, and status labels now use **Korean first with English immediately paired**. Proper nouns, APIs, and code identifiers stay in their original form.
 
-<div align="center">
-<sub>Made with curiosity, traces, and an unreasonable number of tabs.</sub>
-</div>
+자세한 기준은 [`docs/STYLE.md`](./docs/STYLE.md)를 참고하세요.
+See [`docs/STYLE.md`](./docs/STYLE.md) for the detailed rule.
+
+<div align="center"><sub>Made with curiosity, traces, and an unreasonable number of tabs. / 호기심과 trace, 그리고 너무 많은 탭으로 만들었습니다.</sub></div>
