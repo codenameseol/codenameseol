@@ -11,35 +11,35 @@
   <rect x="0.5" y="0.5" width="1199" height="279" rx="17.5" fill="none" stroke="#d8d6cd"/>
   <path d="M170 140 H1030" fill="none" stroke="url(#stroke)" stroke-width="2" stroke-dasharray="7 8" stroke-linecap="round"/>
 
-  <g font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+  <g font-family="Helvetica Neue, Arial, sans-serif">
     <g transform="translate(60,64)">
       <circle cx="10" cy="76" r="6" fill="#722f3e"/>
-      <text x="0" y="0" font-family="Helvetica Neue, Arial, sans-serif" font-size="10" letter-spacing="2" fill="#722f3e" font-weight="600">01 / EDGE</text>
-      <text x="0" y="24" font-size="19" fill="#282823" font-weight="500">실제로 움직이는 것</text>
+      <text x="0" y="0" font-size="10" letter-spacing="2" fill="#722f3e" font-weight="600">01 / EDGE</text>
+      <text x="0" y="24" font-size="18" fill="#282823" font-weight="500">what actually moves</text>
       <text x="0" y="48" font-size="12" fill="#696860">Firmware · Sensors</text>
       <text x="0" y="66" font-size="12" fill="#696860">C / C++</text>
     </g>
     <g transform="translate(340,64)">
       <circle cx="10" cy="76" r="6" fill="#722f3e"/>
-      <text x="0" y="0" font-family="Helvetica Neue, Arial, sans-serif" font-size="10" letter-spacing="2" fill="#722f3e" font-weight="600">02 / SYSTEMS</text>
-      <text x="0" y="24" font-size="19" fill="#282823" font-weight="500">보이지 않는 연결</text>
+      <text x="0" y="0" font-size="10" letter-spacing="2" fill="#722f3e" font-weight="600">02 / SYSTEMS</text>
+      <text x="0" y="24" font-size="18" fill="#282823" font-weight="500">the invisible wiring</text>
       <text x="0" y="48" font-size="12" fill="#696860">Linux · Automation</text>
       <text x="0" y="66" font-size="12" fill="#696860">Python</text>
     </g>
     <g transform="translate(620,64)">
       <circle cx="10" cy="76" r="6" fill="#722f3e"/>
-      <text x="0" y="0" font-family="Helvetica Neue, Arial, sans-serif" font-size="10" letter-spacing="2" fill="#722f3e" font-weight="600">03 / SERVICES</text>
-      <text x="0" y="24" font-size="19" fill="#282823" font-weight="500">쓸모 있는 흐름</text>
+      <text x="0" y="0" font-size="10" letter-spacing="2" fill="#722f3e" font-weight="600">03 / SERVICES</text>
+      <text x="0" y="24" font-size="18" fill="#282823" font-weight="500">flows worth trusting</text>
       <text x="0" y="48" font-size="12" fill="#696860">APIs · Data models</text>
       <text x="0" y="66" font-size="12" fill="#696860">Backend</text>
     </g>
     <g transform="translate(900,64)">
       <circle cx="10" cy="76" r="6" fill="#722f3e"/>
-      <text x="0" y="0" font-family="Helvetica Neue, Arial, sans-serif" font-size="10" letter-spacing="2" fill="#722f3e" font-weight="600">04 / INTERFACE</text>
-      <text x="0" y="24" font-size="19" fill="#282823" font-weight="500">사람이 만나는 화면</text>
+      <text x="0" y="0" font-size="10" letter-spacing="2" fill="#722f3e" font-weight="600">04 / INTERFACE</text>
+      <text x="0" y="24" font-size="18" fill="#282823" font-weight="500">where people meet it</text>
       <text x="0" y="48" font-size="12" fill="#696860">Web apps · Design</text>
       <text x="0" y="66" font-size="12" fill="#696860">TypeScript</text>
     </g>
   </g>
-  <text x="600" y="248" text-anchor="middle" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="11" fill="#696860">완성된 전문 분야의 목록이 아니라, 지금 관심을 가지고 배우는 영역입니다.</text>
+  <text x="600" y="248" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="11" fill="#696860">Not a finished résumé — just where the curiosity is pointed right now.</text>
 </svg>

@@ -35,11 +35,10 @@
   <text x="64" y="250" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="34" fill="#722f3e" letter-spacing="-0.5">
     A little taste. A lot of curiosity.
   </text>
-  <text x="64" y="285" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="17" fill="#696860">
-    기술로 만들고, 취향으로 다듬고, 그 사이의 이야기를 나눕니다.
+  <text x="64" y="285" font-family="Helvetica Neue, Arial, sans-serif" font-size="15" fill="#696860" letter-spacing="0.3">
+    Building in public, from firmware to interface.
   </text>
 
-  <rect x="64" y="315" width="1" height="1" fill="none"/>
   <g font-family="Helvetica Neue, Arial, sans-serif" font-size="11" letter-spacing="1.5" fill="#696860">
     <text x="64" y="385">SEOUL, SOUTH KOREA</text>
     <text x="1216" y="385" text-anchor="end">@CODENAMESEOL</text>
