@@ -11,14 +11,6 @@
 
 </div>
 
-<details open>
-<summary>언어 전환 · Language switch</summary>
-
-이 프로필 README는 한국어를 먼저 쓰고 영어를 바로 병기합니다. GitHub Markdown에서는 JavaScript/canvas 토글을 실행할 수 없으므로 이 native disclosure를 사용합니다. 웹 데모의 실제 전환 버튼은 [Seol Experimental Lab](https://codenameseol.github.io/seol-experimental-lab/)에서 제공합니다.
-This profile README uses Korean first with English immediately paired. GitHub Markdown cannot execute a JavaScript/canvas toggle, so this native disclosure is the supported no-script switch. The live web toggle is available in [Seol Experimental Lab](https://codenameseol.github.io/seol-experimental-lab/).
-
-</details>
-
 ## 한 줄 소개 · One-line introduction
 
 **작은 신호가 사람에게 닿기까지, 전체 경계를 따라가며 만듭니다.**
